@@ -1,4 +1,4 @@
-package com.Spring.pojo;
+package com.SpringBoot.Topics;
 
 public class Topic {
 	private String id;

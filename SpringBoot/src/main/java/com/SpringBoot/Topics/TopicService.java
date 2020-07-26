@@ -5,8 +5,6 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.Spring.pojo.Topic;
-
 @Service
 public class TopicService {
 	private List<Topic> topic = Arrays.asList(new Topic("spring", "Spring Topic", "Spring Description"),
